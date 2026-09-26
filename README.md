@@ -126,13 +126,6 @@ Artifacts produced by `src/train_model.py`:
 - `reports/figures/roc_curve.png`
 - `reports/figures/feature_importance.png`
 
-## 🖥️ Interactive Demo
-
-`app/streamlit_app.py` is a Streamlit app where you fill in a customer's
-profile and get a live churn-risk prediction plus the model's performance
-metrics. Run it locally (see `RUNBOOK.md`) or deploy it for free on
-[Streamlit Community Cloud](https://streamlit.io/cloud) to get a live link
-for your resume/LinkedIn.
 
 ## 🗃️ SQL Analysis
 
